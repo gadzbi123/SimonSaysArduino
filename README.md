@@ -1,4 +1,4 @@
 # SimonSaysArduino
 Simple Arduino project
 
-![](./presentation.MOV)
+![Download the movie from project](./presentation.MOV)
